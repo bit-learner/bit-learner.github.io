@@ -1,0 +1,55 @@
+html, body {
+	background-image: url(images/Elephant.jpg);
+	margin:0px; 
+}
+
+.info {
+	width: 100%;
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.information {
+	width: 100%;
+	margin: 0px auto;
+	background-color: white;
+	height: 300px;
+	text-align: center;
+}
+
+.image {
+	width: 100%;
+	background-color: yellow;
+}
+
+.header {
+	position: fixed;
+	top: 0px;
+	background-color: blue;
+	text-align: center;
+	width: 100%; 
+}
+
+.connect {
+	list-style: none; 
+	display: inline-block fixed;
+	float: right;
+	right: 0px;
+	clear: left;
+	width: 20%;
+	background-color: green;
+
+}
+
+.clear {
+	clear: both;
+}
+
+.footer {
+	width: 99%;
+	text-align: right;
+	background-color: red;
+	margin: auto;
+}
